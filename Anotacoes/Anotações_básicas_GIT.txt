@@ -1,0 +1,14 @@
+Chave ssh
+
+chave que se liga do pc para o githib
+criar chave:  ssh-keygen -t ed25519 -C (email)
+
+senha: chave
+
+git add 
+
+git commit -m " descrição"
+
+adicionar o link pra subir repositório : git remote add origin (link do github)
+
+push para o git hub: git push origin master
