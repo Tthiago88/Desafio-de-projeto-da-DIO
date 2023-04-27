@@ -3,7 +3,7 @@ Chave ssh
 chave que se liga do pc para o githib
 criar chave:  ssh-keygen -t ed25519 -C (email)
 
-senha: chave
+senha: ****
 
 git add 
 
